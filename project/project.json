@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Polinema Library",
+        "tech": "Laravel",
+        "image": "./assets/img/project/perpus.png",
+        "desc":"Together with a team (2 people) created a book management system and website-based book lending transactions using the Laravel framework",
+        "links": {
+            "code": "https://github.com/fauzanmuh/MalangLibary"
+        }
+    },
+    {
+        "title": "IP Address Management Kota Malang",
+        "tech": "HTML, JS, PHP, CSS",
+        "image": "./assets/img/project/monitoringIP.png",
+        "desc":"With the IPAM website you can manage IP networks in Malang City.",
+        "links": {
+            "code": "https://github.com/fauzanmuh/Monitoring-IP"
+        }
+    },
+    {
+        "title": "Collegetivity",
+        "tech": "Laravel",
+        "image": "https://user-images.githubusercontent.com/46257169/171705042-12da6cff-6118-45f9-9349-04d9704ca12a.png",
+        "desc":"This website acts as a workspace intended for students to become more productive and organized. Has features such as organizing schedules, tasks, to-do lists and more.",
+        "links": {
+            "code": "https://github.com/fauzanmuh/ToDOList"
+        }
+    },
+    {
+        "title": "Bengkel Sahabat",
+        "tech": "HTML, JS, CSS",
+        "image": "https://github.com/fauzanmuh/BengkelSahabat/raw/master/assets/img/utama.png",
+        "desc":"Website Company Profile dari Bengkel Sahabat.",
+        "links": {
+            "demo": "https://fauzanmuh.github.io/BengkelSahabat/",
+            "code": "https://github.com/fauzanmuh/BengkelSahabat"
+        }
+    },
+    {
+        "title": "Uklam-Uklam",
+        "tech": "PHP, JS, CSS",
+        "image": "./assets/img/project/uklamuklam.png",
+        "desc":"Website to search for tourist destinations based on desires using the Fuzzy Tahani method.",
+        "links": {
+            "demo": "https://uklamuklam.my.id",
+            "code": "https://github.com/fauzanmuh/SPK-WisataMLGv3"
+        }
+    }
+]
