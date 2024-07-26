@@ -30,7 +30,7 @@
         "title": "Bengkel Sahabat",
         "tech": "HTML, JS, CSS",
         "image": "https://github.com/fauzanmuh/BengkelSahabat/raw/master/assets/img/utama.png",
-        "desc":"Website Company Profile dari Bengkel Sahabat.",
+        "desc":"Website Company Profile from Bengkel Sahabat.",
         "links": {
             "demo": "https://fauzanmuh.github.io/BengkelSahabat/",
             "code": "https://github.com/fauzanmuh/BengkelSahabat"
@@ -44,6 +44,16 @@
         "links": {
             "demo": "https://uklamuklam.my.id",
             "code": "https://github.com/fauzanmuh/SPK-WisataMLGv3"
+        }
+    },
+    {
+        "title": "EURO 2024",
+        "tech": "HTML, CSS",
+        "image": "./assets/img/project/news.png",
+        "desc":"Website to see updated news about Euro 2024.",
+        "links": {
+            "demo": "https://fauzanmuh.github.io/AdvanceMission/",
+            "code": "https://github.com/fauzanmuh/AdvanceMission"
         }
     }
 ]
