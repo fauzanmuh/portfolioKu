@@ -52,12 +52,6 @@ function showCertification(certification) {
                 <p>By
                     <span>${certification.by}</span>
                 </p>
-                <div class="credentials">
-                    <a class="btn" target="_blank" href="${certification.links.credentials}">
-                        view credentials
-                        <i class="fas fa-angle-right"></i>
-                    </a>
-                </div>
             </div>
         </div>`;
   });

@@ -509,7 +509,7 @@ form .btn{
 .certification .content .box{
   box-shadow: 0 0 20px var(--second);
   position: relative;
-  height: 460px;
+  height: 350px;
   width: 320px;
   border-radius: 5px;
   transition: 1s;
