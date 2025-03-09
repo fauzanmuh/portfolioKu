@@ -55,5 +55,32 @@
             "demo": "https://fauzanmuh.github.io/AdvanceMission/",
             "code": "https://github.com/fauzanmuh/AdvanceMission"
         }
+    },
+    {
+        "title": "Indonesia Blockchain Society",
+        "tech": "Wordpress",
+        "image": "./assets/img/project/ibs.png",
+        "desc":"The Indonesia Blockchain Society (IBS) is at the forefront of this transformation. As a non-profit organization dedicated to advancing blockchain technology, IBS plays a pivotal role in aligning stakeholders—government, businesses, academic institutions, and global partners—to drive Indonesia’s blockchain adoption. IBS actively collaborates with policymakers to shape regulations that promote blockchain’s safe and effective use, develops programs to train blockchain talent, and fosters partnerships that will position Indonesia as a leader in blockchain innovation.",
+        "links": {
+            "demo": "https://blockchainsociety.id/"
+        }
+    },
+    {
+        "title": "TrimaTour",
+        "tech": "Laravel 11",
+        "image": "./assets/img/project/trimatour.png",
+        "desc":"Website Bali tours",
+        "links": {
+            "demo": "https://trimatour.com/"
+        }
+    },
+    {
+        "title": "PPDS",
+        "tech": "Laravel 11",
+        "image": "./assets/img/project/ibs.png",
+        "desc":"Build form and admin for PPDS Orthopaedi Universitas Brawijaya",
+        "links": {
+            "demo": "https://officer.otbase.id/"
+        }
     }
 ]
