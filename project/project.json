@@ -1,15 +1,15 @@
 [
     {
         "title": "Polinema Library",
-        "tech": "Laravel",
+        "tech": "Laravel 8",
         "image": "./assets/img/project/perpus.png",
-        "desc":"Together with a team (2 people) created a book management system and website-based book lending transactions using the Laravel framework",
+        "desc":"With a team created a book management system and website-based book lending transactions",
         "links": {
             "code": "https://github.com/fauzanmuh/MalangLibary"
         }
     },
     {
-        "title": "IP Address Management Kota Malang",
+        "title": "IP Management",
         "tech": "HTML, JS, PHP, CSS",
         "image": "./assets/img/project/monitoringIP.png",
         "desc":"With the IPAM website you can manage IP networks in Malang City.",
@@ -19,9 +19,9 @@
     },
     {
         "title": "Collegetivity",
-        "tech": "Laravel",
+        "tech": "Laravel 9",
         "image": "https://user-images.githubusercontent.com/46257169/171705042-12da6cff-6118-45f9-9349-04d9704ca12a.png",
-        "desc":"This website acts as a workspace intended for students to become more productive and organized. Has features such as organizing schedules, tasks, to-do lists and more.",
+        "desc":"This website acts as a workspace intended for students to become more productive and organized.",
         "links": {
             "code": "https://github.com/fauzanmuh/ToDOList"
         }
@@ -57,10 +57,20 @@
         }
     },
     {
-        "title": "Indonesia Blockchain Society",
+        "title": "Tokopaido",
+        "tech": "Laravel 11 & Filament 3",
+        "image": "./assets/img/project/tokopaido.png",
+        "desc":"Website e-commerce Tokopaido integrated with midtrans payment gateway.",
+        "links": {
+            "demo": "/#",
+            "code": "https://github.com/fauzanmuh/OnlineShop-Laravel11"
+        }
+    },
+    {
+        "title": "Blockchain Society",
         "tech": "Wordpress",
         "image": "./assets/img/project/ibs.png",
-        "desc":"The Indonesia Blockchain Society (IBS) is at the forefront of this transformation. As a non-profit organization dedicated to advancing blockchain technology, IBS plays a pivotal role in aligning stakeholders—government, businesses, academic institutions, and global partners—to drive Indonesia’s blockchain adoption. IBS actively collaborates with policymakers to shape regulations that promote blockchain’s safe and effective use, develops programs to train blockchain talent, and fosters partnerships that will position Indonesia as a leader in blockchain innovation.",
+        "desc":"IBS plays a pivotal role in aligning stakeholders—government, businesses, academic institutions, and global partners—to drive Indonesia’s blockchain adoption.",
         "links": {
             "demo": "https://blockchainsociety.id/"
         }
@@ -77,10 +87,19 @@
     {
         "title": "PPDS",
         "tech": "Laravel 11",
-        "image": "./assets/img/project/ibs.png",
+        "image": "./assets/img/project/ppds.png",
         "desc":"Build form and admin for PPDS Orthopaedi Universitas Brawijaya",
         "links": {
-            "demo": "https://officer.otbase.id/"
+            "demo": "/#"
+        }
+    },
+    {
+        "title": "Booking Psikologi",
+        "tech": "Laravel 11 & Next.js",
+        "image": "./assets/img/project/psikolog.png",
+        "desc":"With team build website booking psikologi",
+        "links": {
+            "demo": "/#"
         }
     }
 ]
